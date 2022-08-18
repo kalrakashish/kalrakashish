@@ -13,7 +13,9 @@
  <a href="https://www.linkedin.com/in/kashish-kalra-/">
   <img align="center" alt="Kashsih's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="https://twitter.com/Kashish__kalra">
+  <img align="left" alt="Kashish Kalra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 
 <!--

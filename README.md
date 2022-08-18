@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### ✨ A little bit about me ✨
+### ⚡ A little bit about me ⚡
 - My name is Kashish Kalra, currently working as an Advisory Analyst at Deloitte, USI 🙋🏻‍♀️
 - I am currently looking for job opportunities and collaborating with people in data analytics.
 - I enjoy solving data challenges and case studies.
@@ -11,7 +11,7 @@
 
 ### 🙌🏻 Connect with Me
  <a href="https://www.linkedin.com/in/kashish-kalra-/">
-  <img align="center" alt="Kashsih's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kashsih's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Kashish__kalra">
   <img align="left" alt="Kashish Kalra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

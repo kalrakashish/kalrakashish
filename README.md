@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ### ⚡ A little bit about me ⚡
-- My name is Kashish Kalra, currently working as an Advisory Analyst at Deloitte, USI 🙋🏻‍♀️
-- I am currently looking for job opportunities and collaborating with people in data analytics.
+- My name is Kashish Kalra, currently working as a Consultant at Deloitte, USI 🙋🏻‍♀️
+- I am currently looking to collaborate with people in data analytics.
 - I enjoy solving data challenges and case studies.
 
 ### 💡 Core Competencies 💡
-- Tools: SQL, Python, PowerBI, Statistics, SAS
+- Tools: SQL, Python, PowerBI, Statistics, SAS, VBA, AWS (redshift, glue, api gateway)
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Insights Generation
 
 ### 🙌🏻 Connect with Me

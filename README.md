@@ -11,7 +11,7 @@
 
 ### 🙌🏻 Connect with Me
  <a href="https://www.linkedin.com/in/kashish-kalra-/">
-  <img align="left" alt="Kashsih's LinkedIN" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
+  <img align="left" alt="Kashish's LinkedIN" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
 
 

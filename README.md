@@ -11,11 +11,11 @@
 
 ### 🙌🏻 Connect with Me
  <a href="https://www.linkedin.com/in/kashish-kalra-/">
-  <img align="left" alt="Kashsih's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kashsih's LinkedIN" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
-<a href="https://twitter.com/Kashish__kalra">
+**<a href="https://twitter.com/Kashish__kalra">
   <img align="left" alt="Kashish Kalra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a>**
 
 
 <!--
